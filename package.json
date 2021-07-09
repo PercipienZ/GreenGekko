@@ -16,7 +16,7 @@
   "dependencies": {
     "@xmpp/client": "^0.9.1",
     "async": "2.1.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bfx-hf-indicators": "git+https://github.com/mark-sch/bfx-hf-indicators.git",
     "bitfinex-api-node": "^1.2.1",
     "buffer-writer": "^2.0.0",
